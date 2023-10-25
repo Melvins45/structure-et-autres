@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572465238 source:c:\users\famille nitopop\desktop\documents melvins\melvins console\structure et autres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1572465891 c:\users\famille nitopop\desktop\documents melvins\melvins console\structure et autres\main.h
+
